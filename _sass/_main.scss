@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
 *,:after,:before {
 	box-sizing:border-box;
 	background-color:inherit;
@@ -7,7 +8,7 @@
 }
 
 body {
-	font-family: system-ui, sans-serif;
+	font-family: 'Share Tech Mono', monospace, sans-serif;
 	-webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 	line-height:1.5;

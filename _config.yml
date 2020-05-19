@@ -1,7 +1,7 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+site: badsportswriting.com
+url: http://badsportswriting.com
+title: badsportswriting.com
+description: an opinionated sports and culture column from chicago
 twitter:
   username: #yourusername
   card: summary

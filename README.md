@@ -1,25 +1,3 @@
-# Sidey
+# badsportswriting.com
 
-Sidey is a simple and minimalistic jekyll blogging theme.
-
-### Features
-
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
-
-### Screenshot
-
-![Screenshot](screenshot.png)
+if you're reading this, i'm not sure how you found the git repo where this site lives. fork the repo if you like the theme design. it's not mine, I forked someone else's repo and created the frankenstein abomination of a "culture blog" that got you this far. 
